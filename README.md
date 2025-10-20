@@ -8,7 +8,6 @@ This repository provides the simulation code for the following paper:
 *IEEE Transactions on Automatic Control, 2025.*  
 [DOI: 10.1109/TAC.2025.3614544](https://doi.org/10.1109/TAC.2025.3614544)  
 
-© IEEE 2025. Personal use of this material is permitted.  
 The official version is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/11180029).  
 
 **Keywords:** Cluttered Environment, Lipschitz Continuity, Safety-Critical Control.
