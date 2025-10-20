@@ -44,7 +44,7 @@ The effectiveness of the proposed design is demonstrated through numerical simul
 
 ## Repository Structure
 
-This repository contains simulation code for reproducing the results in the paper. All code was developed and tested on **Windows 11 with MATLAB 2023b**.
+This repository contains the simulation code of the paper.
 
 ### Simulations
 
