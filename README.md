@@ -1,7 +1,15 @@
 # Continuous Safety-Critical Control of Mobile Robots
 
-This repository provides simulation code and implementations for the paper:  
-**"Continuous Safety-Critical Control of Mobile Robots With Set-Valued Feedback in Body-Fixed Coordinate Frame"** (IEEE Trans. Autom. Control, 2025).
+This repository provides the simulation code for the following paper:  
+
+**"Continuous Safety-Critical Control of Mobile Robots With Set-Valued Feedback in Body-Fixed Coordinate Frame"**  
+*IEEE Transactions on Automatic Control, 2025.*  
+[DOI: 10.1109/TAC.2025.3614544](https://doi.org/10.1109/TAC.2025.3614544)  
+
+© IEEE 2025. Personal use of this material is permitted.  
+The official version is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/11180029).  
+
+**Keywords:** Cluttered Environment, Lipschitz Continuity, Safety-Critical Control.
 
 ---
 
@@ -51,8 +59,6 @@ This repository contains simulation code for reproducing the results in the pape
 
    ![MY_SIM](https://github.com/user-attachments/assets/0f8f7741-1a4d-4d69-8a15-d7609ea6d71a)
 
-   <img width="3300" height="2475" alt="SIM_MY" src="https://github.com/user-attachments/assets/ce0b1e05-6f41-4f52-9702-3038a02079ba" />
-
 2. **Robustness Scenario** (`main_uncertainty_MY.m`)  
    - Evaluates robustness under **actuation dynamics**.  
    - The mobile robot is modeled as a **cascade of nominal system and actuation system**.  
@@ -61,7 +67,6 @@ This repository contains simulation code for reproducing the results in the pape
 
    ![MY_UNCERTAINTY_SIM](https://github.com/user-attachments/assets/2f7910d2-93f3-4a00-bc2a-616af99abe12)
 
-   <img width="3300" height="2475" alt="SIM_UNCERTAINTY_MY" src="https://github.com/user-attachments/assets/0183576d-7e7c-48fb-a86a-3a7c384685e8" />
 
 ### Key Files
 
@@ -86,5 +91,6 @@ title={Continuous Safety-Critical Control of Mobile Robots With Set-Valued Feedb
 author={Wu, Si and Liu, Tengfei and Zhang, Weidong and Ding, Jinliang and Jiang, Zhong-Ping and Chai, Tianyou},
 journal={IEEE Transactions on Automatic Control},
 year={2025},
+doi={10.1109/TAC.2025.3614544},
 publisher={IEEE}
 }
