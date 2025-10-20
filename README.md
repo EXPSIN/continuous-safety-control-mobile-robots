@@ -1,5 +1,7 @@
 # Continuous Safety-Critical Control of Mobile Robots
 
+🌐 [中文说明](./README_zh.md)
+
 This repository provides the simulation code for the following paper:  
 
 **"Continuous Safety-Critical Control of Mobile Robots With Set-Valued Feedback in Body-Fixed Coordinate Frame"**  
