@@ -7,8 +7,6 @@ This repository provides simulation code and implementations for the paper:
 
 ## Abstract
 
-## Abstract
-
 This paper investigates a safety-critical control problem for a mobile robot navigating cluttered environments.  
 Obstacles are represented as a closed set, and a direction-distance function is used to model the obstacle measurement process.  
 
